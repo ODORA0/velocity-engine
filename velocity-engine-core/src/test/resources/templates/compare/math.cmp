@@ -42,6 +42,3 @@ Test integer division
 Test decimal division
 5 / 2.0 = 2.5
 5.0 / 2 = 2.5
-
-Unary negate
--5 = -5 = -5 = -5 = -5 = -5
